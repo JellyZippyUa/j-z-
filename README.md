@@ -4,12 +4,8 @@
 
 ---
 
-<p align="center">
-  <img src="https://pinimg.com" width="450" alt="Profile Banner">
-</p>
+![](https://pinimg.com)
 
-<p align="center">
-  <img src="https://imgbox.com" alt="Hannibal Blinkie">
-</p>
+![](https://imgbox.com)
 
 <h1 align="center"> 🕸️ ‧₊˚ Zip Puppy ୧ ‧₊˚ 🍖 🦴 ‧ </h1>
