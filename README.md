@@ -5,7 +5,8 @@
 ---
 
 <p align="center">
-  <img src="https://imgur.com" alt="Hannibal Blinkie">
+  <img src="<img width="400" height="53" alt="ZEALi0m" src="https://github.com/user-attachments/assets/55fa61d9-f289-4145-8af7-aca2c733adef" />
+">
 </p>
 
 <h1 align="center"> 🕸️ ‧₊˚ Zip Puppy ୧ ‧₊˚ 🍖 🦴 ‧ </h1>
