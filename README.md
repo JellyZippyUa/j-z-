@@ -8,4 +8,10 @@
 
 ![](https://imgbox.com)
 
-<h1 align="center"> 🕸️ ‧₊˚ Zip Puppy ୧ ‧₊˚ 🍖 🦴 ‧ </h1>
+<p align="center">
+  <font size="6"><b><i>(***zιρ ρᥙρρ𐔤***) !!</i></b></font>
+  <br>
+  ↓✭ (<b>they • them</b>) ⚊ (<u><i>14 y.o</i></u>) ೄྀ
+</p>
+
+---
