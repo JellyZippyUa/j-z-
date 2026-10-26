@@ -31,8 +31,8 @@
 
 ## ─── ❖ ── Official Playlist ── ❖ ───
 
-* **V's Theme:** *Theory Of A Deadman — Drag Me to Hell*
-* **Marla's Theme:** *Alex G — Animals*
+* **V's Theme:** [Theory Of A Deadman — Drag Me to Hell](https://www.youtube.com/watch?v=puSQWoGZdko)
+* **Marla's Theme:** [Alex G — Animals](https://www.youtube.com/watch?v=9FRzP5yQCH8)
 
 ---
 
