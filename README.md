@@ -1,22 +1,12 @@
-<img width="1200" height="615" alt="Без названия21_20261026173504" src="https://github.com/user-attachments/assets/19f906b8-93f5-426c-ae87-ea8eb4f19792" />
-
-<br><br>
-
-<!-- ИМЯ И ОСНОВНАЯ ИНФО -->
-<h1 style="color: #704546; border-bottom: 2px solid #704546; padding-bottom: 5px;">👋meet my yumeship !! </h1>
-
 <div align="center">
 
 # ✦ The Mysterious One & His Muse ✦
 
 > *"To see a World in a Grain of Sand / And a Heaven in a Wild Flower..."* — William Blake
 
-![V Aesthetic](https://shields.io)
-![Partner](https://shields.io)
+**🖤 F/O:** V *(Devil May Cry 5)* &nbsp;&nbsp;|&nbsp;&nbsp; **🌹 Partner:** Marla
 
 ---
-
-<img src="https://giphy.com" width="600" alt="V DMC5" style="border-radius: 8px; border: 1px solid #cca353;"/>
 
 </div>
 
@@ -44,7 +34,3 @@
 > *"He who binds to himself a joy / Does the winged life destroy; / But he who kisses the joy as it flies / Lives in eternity's sun rise."*
 >
 > Every moment spent between Marla and V feels like a stanza from a dark, beautiful poem that belongs only to the two of them.
-
-<div align="center">
-<img src="https://komarev.com" alt="Views" />
-</div>
