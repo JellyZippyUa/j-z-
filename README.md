@@ -3,42 +3,48 @@
 <br><br>
 
 <!-- ИМЯ И ОСНОВНАЯ ИНФО -->
-<h1 style="color: #704546; border-bottom: 2px solid #704546; padding-bottom: 5px;">👋 Hello! I'm Jelly Zip Puppy / Marla Diegos</h1>
+<h1 style="color: #704546; border-bottom: 2px solid #704546; padding-bottom: 5px;">👋meet my yumeship !! </h1>
 
-<p>
-  <img src="https://shields.io" alt="Bday">
-  <img src="https://shields.io" alt="Pronouns">
-</p>
+<div align="center">
 
-<p style="color: #704546;">━━━━━━━━━━━━━━ 🖤 ━━━━━━━━━━━━━━</p>
+# ✦ The Mysterious One & His Muse ✦
 
-<!-- БЛОК С F/O -->
-<h2 style="color: #704546;">My Ultimate F/O (Favorite Other)</h2>
-<b style="font-size: 24px; color: #704546; letter-spacing: 2px;">🔮 V (DMC5) 🔮</b>
+> *"To see a World in a Grain of Sand / And a Heaven in a Wild Flower..."* — William Blake
 
-<br><br>
+![V Aesthetic](https://shields.io)
+![Partner](https://shields.io)
 
-<!-- ЛИЧНЫЕ ГРАНИЦЫ -->
-<div style="background-color: #e5e4da; border: 2px dashed #704546; padding: 15px; border-radius: 10px; max-width: 500px;">
-  <h3 style="color: #704546; margin-top: 0;">⚠️ IMPORTANT BOUNDARIES</h3>
-  <ul style="color: #704546; text-align: left; list-style-type: square;">
-    <li><b>Non-share / Heavy overlap discomfort.</b></li>
-    <li><b>Pls respect my boundaries !!</b></li>
-  </ul>
+---
+
+<img src="https://giphy.com" width="600" alt="V DMC5" style="border-radius: 8px; border: 1px solid #cca353;"/>
+
 </div>
 
-<p style="color: #704546;">━━━━━━━━━━━━━━ 💌 ━━━━━━━━━━━━━━</p>
+## ─── ❖ ── Information ── ❖ ───
 
-<!-- НАПОМИНАНИЕ -->
-<h2 style="color: #704546;">Gentle Reminder</h2>
-<p style="font-size: 18px; color: #704546; font-style: italic; line-height: 1.6;">
-  Your f/o loves you sm &lt;3 <br>
-  You're their one and only and never forget that!!!
-</p>
+* **Main Character:** Marla
+* **Fictional Other:** V (The Mysterious One)
+* **Universe:** *Devil May Cry 5*
+* **Aesthetic:** Torn book pages, silver cane reflections, the scent of rain and old ink, quiet classical music, and dark shadows.
 
-<br>
+## ─── ❖ ── The Dynamics ── ❖ ───
 
-<!-- ФУТЕР-ВОЛНА В ЦВЕТ ПРОФИЛЯ -->
-<img src="https://vercel.app" width="100%" />
+* **Format:** Comfort & Deep Emotional Bond | Domestic AU | Canon Divergence.
+* **The Core:** A calm sanctuary hidden away from the chaotic demon-hunting world. It’s a bond built on unspoken understanding, shared silence, and acceptance. Marla is V’s grounding presence, a soft light to his fading shadows, while V offers her his fierce, poetic devotion.
 
+### 🖤 Headcanons
+- [x] *V loves to read aloud to Marla in a quiet, low voice whenever she is stressed or can't sleep.*
+- [x] *Marla gently helps him brush his hair or leans on his shoulder when he feels physically weak.*
+- [x] *Griffon always teases them about being "too romantic," but Shadow secretly curls up by Marla's feet.*
+
+---
+
+## ─── ❖ ── A Special Bond ── ❖ ───
+
+> *"He who binds to himself a joy / Does the winged life destroy; / But he who kisses the joy as it flies / Lives in eternity's sun rise."*
+>
+> Every moment spent between Marla and V feels like a stanza from a dark, beautiful poem that belongs only to the two of them.
+
+<div align="center">
+<img src="https://komarev.com" alt="Views" />
 </div>
