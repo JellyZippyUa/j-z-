@@ -1,3 +1,5 @@
+<img width="1200" height="615" alt="Без названия21_20261026173504" src="https://github.com/user-attachments/assets/249d08b2-36ae-4604-adee-46c801ee3573" />
+
 <div align="center">
 
 # ✦ The Mysterious One & His Muse ✦
