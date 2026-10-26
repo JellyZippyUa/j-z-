@@ -6,7 +6,7 @@
 
 > *"To see a World in a Grain of Sand / And a Heaven in a Wild Flower..."* — William Blake
 
-**🖤 F/O:** V *(Devil May Cry 5)* &nbsp;&nbsp;|&nbsp;&nbsp; **🌹 Partner:** Marla
+**F/O:** V *(Devil May Cry 5)* &nbsp;&nbsp;|&nbsp;&nbsp; **Partner:** Marla
 
 ---
 
@@ -24,10 +24,15 @@
 * **Format:** Comfort & Deep Emotional Bond | Domestic AU | Canon Divergence.
 * **The Core:** A calm sanctuary hidden away from the chaotic demon-hunting world. It’s a bond built on unspoken understanding, shared silence, and acceptance. Marla is V’s grounding presence, a soft light to his fading shadows, while V offers her his fierce, poetic devotion.
 
-### 🖤 Headcanons
+### Headcanons
 - [x] *V loves to read aloud to Marla in a quiet, low voice whenever she is stressed or can't sleep.*
 - [x] *Marla gently helps him brush his hair or leans on his shoulder when he feels physically weak.*
 - [x] *Griffon always teases them about being "too romantic," but Shadow secretly curls up by Marla's feet.*
+
+## ─── ❖ ── Official Playlist ── ❖ ───
+
+* **V's Theme:** *Theory Of A Deadman — Drag Me to Hell*
+* **Marla's Theme:** *Alex G — Animals*
 
 ---
 
