@@ -42,3 +42,9 @@
 > *"He who binds to himself a joy / Does the winged life destroy; / But he who kisses the joy as it flies / Lives in eternity's sun rise."*
 >
 > Every moment spent between Marla and V feels like a stanza from a dark, beautiful poem that belongs only to the two of them.
+
+## ─── ❖ ── A Quiet Moment ── ❖ ───
+
+*“You’re reading too late again,” Marla says softly, adjusting the blanket over his shoulders.*
+
+*V doesn’t look up immediately, but a faint smile touches his lips as he turns the page. “Only a few more stanzas, my dear. The shadows are quiet tonight, and so is the world. Stay a little longer.”*
