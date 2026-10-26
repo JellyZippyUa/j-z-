@@ -17,6 +17,7 @@
 * **Main Character:** Marla
 * **Fictional Other:** V (The Mysterious One)
 * **Universe:** *Devil May Cry 5*
+**Sharing Status:** Non-Share !
 * **Aesthetic:** Torn book pages, silver cane reflections, the scent of rain and old ink, quiet classical music, and dark shadows.
 
 ## ─── ❖ ── The Dynamics ── ❖ ───
