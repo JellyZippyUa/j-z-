@@ -1,7 +1,4 @@
-<div align="center">
-
-<!-- ВЕРХНЯЯ КАРТИНКА -->
-<img src="https://squarespace-cdn.com" width="600" alt="V DMC5 Banner">
+<img width="1200" height="615" alt="Без названия21_20261026173504" src="https://github.com/user-attachments/assets/19f906b8-93f5-426c-ae87-ea8eb4f19792" />
 
 <br><br>
 
